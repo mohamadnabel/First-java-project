@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-07T23:05:28 AST" name="Default suite" finished-at="2024-03-07T23:05:35 AST" duration-ms="6823">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T23:05:28 AST" name="Default test" finished-at="2024-03-07T23:05:35 AST" duration-ms="6823">
+      <class name="swagLapp.localTest">
+        <test-method is-config="true" signature="Bfourtest()[pri:0, instance:swagLapp.localTest@31000e60]" started-at="2024-03-07T23:05:28 AST" name="Bfourtest" finished-at="2024-03-07T23:05:28 AST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bfourtest -->
+        <test-method signature="LoginTest()[pri:0, instance:swagLapp.localTest@31000e60]" started-at="2024-03-07T23:05:28 AST" name="LoginTest" finished-at="2024-03-07T23:05:35 AST" duration-ms="6405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- swagLapp.localTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
